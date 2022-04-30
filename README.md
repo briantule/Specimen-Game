@@ -1,2 +1,2 @@
 # Specimen-Game
-Pokemon based 2D game (Unity
+Pokemon based 2D game (Unity)
